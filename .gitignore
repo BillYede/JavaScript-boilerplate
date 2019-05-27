@@ -1,2 +1,4 @@
+dist
 node_modules
-/dist
+/cache
+/.DS_Store
